@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "socket-common.h": "c",
+        "cryptodev.h": "c",
+        "stdio.h": "c"
+    }
+}

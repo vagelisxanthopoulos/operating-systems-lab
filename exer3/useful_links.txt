@@ -1,0 +1,7 @@
+https://elixir.bootlin.com/linux/v4.4/source  -> linux kernel source code
+
+https://www.redhat.com/en/blog/virtio-devices-and-drivers-overview-headjack-and-phone -> virtio
+
+https://www.redhat.com/en/blog/virtqueues-and-virtio-ring-how-data-travels -> virtio
+
+https://developer.ibm.com/articles/l-virtio/ -> virtio
